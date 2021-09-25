@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Below is a __list__ of my skills:_
+## Programming languages:
+- C++
+- Python
+## Others:
+- Machine Learning
+- Deep Learning 
